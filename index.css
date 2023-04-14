@@ -1,0 +1,42 @@
+.head{
+    background-color:rgba(42, 52, 42, 0.913);
+    height:60px;
+    padding: 10px 10px;
+    color: white;
+}
+.col-md-3{
+    background-color:rgb(37, 33, 33);
+    height: 400px;
+    border-radius: 20px;
+    margin: 0px 30px;
+    color: white;
+}
+.box{
+    background-color:black;
+    height: 700px;
+}
+.search{
+    background-color:rgb(37, 33, 33);
+    height: 25px;
+    margin: 40px 300px;
+    padding: 0px 0px 10px 10px;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 0.582);
+    padding: 0px 15px;
+}
+.content{
+    background-color:rgb(37, 33, 33);
+    height: 130px;
+    margin: 40px 30px;
+    border-radius: 12px;
+}
+.box-part{
+    background-color:lightgrey;
+    height: 600px;
+}
+.msg{
+    background-color:rgb(37, 33, 33);
+    height: 100px;
+    margin: 20px 30px;
+    border-radius: 12px;
+}
